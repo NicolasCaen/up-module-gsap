@@ -1,0 +1,20 @@
+{
+  "patterns": [
+    {
+      "slug": "gsap-animation-global",
+      "name": "Gsap Animation Global",
+      "description": "Animations GSAP génériques pour headings, paragraphes, images, colonnes et tables.",
+      "version": "1.0.0",
+      "categories": [
+        "Animation",
+        "Frontend"
+      ],
+      "files": {
+        "script": "gsap-animation-global.js"
+      },
+      "install": {
+        "script": "assets/js/gsap"
+      }
+    }
+  ]
+}
